@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ~/Documents/Science Study Tool/src/Game/Gama.java
+Main-Class: Game.java
+
